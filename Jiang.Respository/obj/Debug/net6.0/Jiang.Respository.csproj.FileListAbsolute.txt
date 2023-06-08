@@ -1,0 +1,12 @@
+G:\面试题\Jiang.Respository\bin\Debug\net6.0\Jiang.Respository.deps.json
+G:\面试题\Jiang.Respository\bin\Debug\net6.0\Jiang.Respository.dll
+G:\面试题\Jiang.Respository\bin\Debug\net6.0\Jiang.Respository.pdb
+G:\面试题\Jiang.Respository\obj\Debug\net6.0\Jiang.Respository.csproj.AssemblyReference.cache
+G:\面试题\Jiang.Respository\obj\Debug\net6.0\Jiang.Respository.GeneratedMSBuildEditorConfig.editorconfig
+G:\面试题\Jiang.Respository\obj\Debug\net6.0\Jiang.Respository.AssemblyInfoInputs.cache
+G:\面试题\Jiang.Respository\obj\Debug\net6.0\Jiang.Respository.AssemblyInfo.cs
+G:\面试题\Jiang.Respository\obj\Debug\net6.0\Jiang.Respository.csproj.CoreCompileInputs.cache
+G:\面试题\Jiang.Respository\obj\Debug\net6.0\Jiang.Respository.dll
+G:\面试题\Jiang.Respository\obj\Debug\net6.0\refint\Jiang.Respository.dll
+G:\面试题\Jiang.Respository\obj\Debug\net6.0\Jiang.Respository.pdb
+G:\面试题\Jiang.Respository\obj\Debug\net6.0\ref\Jiang.Respository.dll

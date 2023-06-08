@@ -1,0 +1,15 @@
+G:\面试题\Jiang.Common\bin\Debug\net6.0\Jiang.Common.deps.json
+G:\面试题\Jiang.Common\bin\Debug\net6.0\Jiang.Common.dll
+G:\面试题\Jiang.Common\bin\Debug\net6.0\Jiang.Common.pdb
+G:\面试题\Jiang.Common\obj\Debug\net6.0\Jiang.Common.csproj.AssemblyReference.cache
+G:\面试题\Jiang.Common\obj\Debug\net6.0\Jiang.Common.GeneratedMSBuildEditorConfig.editorconfig
+G:\面试题\Jiang.Common\obj\Debug\net6.0\Jiang.Common.AssemblyInfoInputs.cache
+G:\面试题\Jiang.Common\obj\Debug\net6.0\Jiang.Common.AssemblyInfo.cs
+G:\面试题\Jiang.Common\obj\Debug\net6.0\Jiang.Common.csproj.CoreCompileInputs.cache
+G:\面试题\Jiang.Common\obj\Debug\net6.0\Jiang.Common.dll
+G:\面试题\Jiang.Common\obj\Debug\net6.0\refint\Jiang.Common.dll
+G:\面试题\Jiang.Common\obj\Debug\net6.0\Jiang.Common.pdb
+G:\面试题\Jiang.Common\obj\Debug\net6.0\ref\Jiang.Common.dll
+G:\面试题\Jiang.Common\bin\Debug\net6.0\Jiang.Models.dll
+G:\面试题\Jiang.Common\bin\Debug\net6.0\Jiang.Models.pdb
+G:\面试题\Jiang.Common\obj\Debug\net6.0\Jiang.Common.csproj.CopyComplete

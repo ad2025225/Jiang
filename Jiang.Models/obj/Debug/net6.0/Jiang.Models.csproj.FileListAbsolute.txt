@@ -1,0 +1,14 @@
+G:\面试题\Jiang.Models\bin\Debug\net6.0\Jiang.Models.deps.json
+G:\面试题\Jiang.Models\bin\Debug\net6.0\Jiang.Models.dll
+G:\面试题\Jiang.Models\bin\Debug\net6.0\Jiang.Models.pdb
+G:\面试题\Jiang.Models\obj\Debug\net6.0\Jiang.Models.csproj.AssemblyReference.cache
+G:\面试题\Jiang.Models\obj\Debug\net6.0\Jiang.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\面试题\Jiang.Models\obj\Debug\net6.0\Jiang.Models.AssemblyInfoInputs.cache
+G:\面试题\Jiang.Models\obj\Debug\net6.0\Jiang.Models.AssemblyInfo.cs
+G:\面试题\Jiang.Models\obj\Debug\net6.0\Jiang.Models.csproj.CoreCompileInputs.cache
+G:\面试题\Jiang.Models\obj\Debug\net6.0\Jiang.Models.dll
+G:\面试题\Jiang.Models\obj\Debug\net6.0\refint\Jiang.Models.dll
+G:\面试题\Jiang.Models\obj\Debug\net6.0\Jiang.Models.pdb
+G:\面试题\Jiang.Models\obj\Debug\net6.0\ref\Jiang.Models.dll
+G:\面试题\Jiang.Models\bin\Debug\net6.0\Jiang.Models.runtimeconfig.json
+G:\面试题\Jiang.Models\obj\Debug\net6.0\Jiang.Models.genruntimeconfig.cache

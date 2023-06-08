@@ -1,0 +1,15 @@
+G:\面试题\Jiang.Service\bin\Debug\net6.0\Jiang.Service.deps.json
+G:\面试题\Jiang.Service\bin\Debug\net6.0\Jiang.Service.dll
+G:\面试题\Jiang.Service\bin\Debug\net6.0\Jiang.Service.pdb
+G:\面试题\Jiang.Service\obj\Debug\net6.0\Jiang.Service.csproj.AssemblyReference.cache
+G:\面试题\Jiang.Service\obj\Debug\net6.0\Jiang.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\面试题\Jiang.Service\obj\Debug\net6.0\Jiang.Service.AssemblyInfoInputs.cache
+G:\面试题\Jiang.Service\obj\Debug\net6.0\Jiang.Service.AssemblyInfo.cs
+G:\面试题\Jiang.Service\obj\Debug\net6.0\Jiang.Service.csproj.CoreCompileInputs.cache
+G:\面试题\Jiang.Service\obj\Debug\net6.0\Jiang.Service.dll
+G:\面试题\Jiang.Service\obj\Debug\net6.0\refint\Jiang.Service.dll
+G:\面试题\Jiang.Service\obj\Debug\net6.0\Jiang.Service.pdb
+G:\面试题\Jiang.Service\obj\Debug\net6.0\ref\Jiang.Service.dll
+G:\面试题\Jiang.Service\bin\Debug\net6.0\Jiang.Models.dll
+G:\面试题\Jiang.Service\bin\Debug\net6.0\Jiang.Models.pdb
+G:\面试题\Jiang.Service\obj\Debug\net6.0\Jiang.Service.csproj.CopyComplete

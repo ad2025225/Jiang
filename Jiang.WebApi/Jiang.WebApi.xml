@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jiang.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:Jiang.WebApi.Controllers.BaseController">
+            <summary>
+            路由模板
+            </summary>
+        </member>
+        <member name="T:Jiang.WebApi.Controllers.EnterpriseController">
+            <summary>
+            企业信息
+            </summary>
+        </member>
+        <member name="M:Jiang.WebApi.Controllers.EnterpriseController.#ctor(Jiang.Service.IService.IEnterpriseService)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="enterpriseService"></param>
+        </member>
+        <member name="M:Jiang.WebApi.Controllers.EnterpriseController.GET(System.Guid)">
+            <summary>
+            统计查询数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Jiang.WebApi.Controllers.EnterpriseController.POST(Jiang.Models.Entity.EnterpriseInfo)">
+            <summary>
+            添加数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Jiang.WebApi.Controllers.EnterpriseController.PUT(Jiang.Models.Entity.EnterpriseInfo)">
+            <summary>
+            修改数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Jiang.WebApi.Controllers.EnterpriseController.DELETE(System.Guid)">
+            <summary>
+            删除数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Jiang.WebApi.Controllers.EnterpriseController.Get">
+            <summary>
+            统计省份
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Jiang.WebApi.Controllers.LoginController">
+            <summary>
+            登录
+            </summary>
+        </member>
+        <member name="M:Jiang.WebApi.Controllers.LoginController.Post(Jiang.Models.Users)">
+            <summary>
+            登录
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Jiang.WebApi.Controllers.TokenController">
+            <summary>
+            解析Token
+            </summary>
+        </member>
+        <member name="M:Jiang.WebApi.Controllers.TokenController.GET">
+            <summary>
+            解析Token
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
