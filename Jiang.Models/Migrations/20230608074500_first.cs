@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Jiang.Models.Migrations
 {
     /// <inheritdoc />
-    public partial class Init : Migration
+    public partial class first : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Author",
+                name: "EnterpriseInfo",
                 columns: table => new
                 {
                     EnterpriseInfoId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
@@ -25,7 +25,21 @@ namespace Jiang.Models.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Author", x => x.EnterpriseInfoId);
+                    table.PrimaryKey("PK_EnterpriseInfo", x => x.EnterpriseInfoId);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Users",
+                columns: table => new
+                {
+                    UserId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    UserName = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    UserPwd = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Role = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Users", x => x.UserId);
                 });
         }
 
@@ -33,7 +47,10 @@ namespace Jiang.Models.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Author");
+                name: "EnterpriseInfo");
+
+            migrationBuilder.DropTable(
+                name: "Users");
         }
     }
 }

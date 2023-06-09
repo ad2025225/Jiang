@@ -22,7 +22,7 @@
         </member>
         <member name="M:Jiang.WebApi.Controllers.EnterpriseController.GET(System.Guid)">
             <summary>
-            统计查询数据
+            统计查询数据Admin身份
             </summary>
             <returns></returns>
         </member>
@@ -46,7 +46,7 @@
         </member>
         <member name="M:Jiang.WebApi.Controllers.EnterpriseController.Get">
             <summary>
-            统计省份
+            统计省份身份System
             </summary>
             <returns></returns>
         </member>
@@ -55,7 +55,7 @@
             登录
             </summary>
         </member>
-        <member name="M:Jiang.WebApi.Controllers.LoginController.Post(Jiang.Models.Users)">
+        <member name="M:Jiang.WebApi.Controllers.LoginController.Post(Jiang.Models.Entity.User)">
             <summary>
             登录
             </summary>

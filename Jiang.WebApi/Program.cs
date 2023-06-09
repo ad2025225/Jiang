@@ -1,12 +1,11 @@
 using Autofac.Extensions.DependencyInjection;
 using Autofac;
-using Jiang.Common.AppSettings;
 using Jiang.Common.AutoMapper;
 using Jiang.Common.Swagger;
 using Microsoft.EntityFrameworkCore;
-using Autofac.Core;
 using Jiang.Common.AuthorizationSetup;
 using Jiang.Models;
+using Jiang.Common.AppSettings;
 
 var builder = WebApplication.CreateBuilder(args);
 

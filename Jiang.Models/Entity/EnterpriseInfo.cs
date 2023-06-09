@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace Jiang.Models.Entity;
 
@@ -8,6 +9,7 @@ public partial class EnterpriseInfo
     /// <summary>
     /// 编号
     /// </summary>
+    [Key]
     public Guid EnterpriseInfoId { get; set; }
 
     /// <summary>

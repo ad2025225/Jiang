@@ -12,8 +12,8 @@ namespace Jiang.WebApi.Controllers
     /// 企业信息
     /// </summary>
     public class EnterpriseController : BaseController
-    {   
-      private readonly IEnterpriseService _enterpriseService;
+    {
+        private readonly IEnterpriseService _enterpriseService;
         /// <summary>
         /// 构造函数
         /// </summary>
@@ -24,14 +24,15 @@ namespace Jiang.WebApi.Controllers
         }
 
         /// <summary>
-        /// 统计查询数据
+        /// 统计查询数据Admin身份
         /// </summary>
         /// <returns></returns>
         [HttpGet, Route("Enterprise")]
         [Authorize(Roles = "Admin")]
-        public  ApiResultData GET(Guid guid) {
+        public ApiResultData GET(Guid guid)
+        {
 
-            return  _enterpriseService.GetEnterprise(guid);
+            return _enterpriseService.GetEnterprise(guid);
         }
 
         /// <summary>
@@ -60,15 +61,16 @@ namespace Jiang.WebApi.Controllers
         public ApiResultData DELETE(Guid guid)
         {
             return _enterpriseService.DelEnterprise(guid);
-         }
+        }
         /// <summary>
-        /// 统计省份
+        /// 统计省份身份System
         /// </summary>
         /// <returns></returns>
-        [HttpGet,Route("CountProvince")]
+        [HttpGet, Route("CountProvince")]
         [Authorize(Roles = "System")]
-        public ApiResultData Get() { 
-        
+        public ApiResultData Get()
+        {
+
             return _enterpriseService.CountProvince();
         }
     }

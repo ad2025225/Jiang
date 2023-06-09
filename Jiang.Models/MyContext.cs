@@ -32,10 +32,12 @@ namespace Jiang.Models
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<EnterpriseInfo>();
+            modelBuilder.Entity<Users>();
             base.OnModelCreating(modelBuilder);
         }
 
         public virtual DbSet<EnterpriseInfo> EnterpriseInfo { get; set; }
+        public virtual DbSet<Users> Users { get; set; }
 
     }
 }
