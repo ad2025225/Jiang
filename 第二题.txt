@@ -20,7 +20,7 @@ openid 订单编号,名称,价格,规格,数量,收货地址,下单时间
             int count=0;
             if (Number <= 3)
             {
-                return count = (20 * Number) + (Number * (20 - 20));
+                return count =20 * Number;
             }
            
             if (Number <= 7)
